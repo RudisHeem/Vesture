@@ -3,4 +3,31 @@ Varas dalījums-Izpildvara,likumdevējvara,tiesu vara
 Politiskā vara-Tautai
 Varas iegūšanas veids-Iedzīvotāju vēlēšanas
 Kādas ir vēlēšanas?-Vienlīdzīgas tiesības,aizklāta balsošana
-Varas institūciju atbildība-
+Varas institūciju atbildība-institūcijas ir atbildīgas iedzīvotājiem
+Politisko lēmumu pieņemšanas veids-iedzīvotājiem ir iespēja ietekmēt politiskos lēmumus,nobalsojot par saviem pārstāvjiem.
+Attiecības starp varu un sabiedrību-Vara rīkojas atbilstoši sabiedrības intresēm
+Informācijas pieejamība-atklāta
+Vadonības kults-nepastāv
+
+Autoritārisms
+Varas dalījums-Izpildvara
+Politiskā vara-Autoritārais vadonis
+Varas iegūšanas veids-Valsts apvērsums
+Kādas ir vēlēšanas-Nav
+Varas institūciju atbildība-vadonis
+Politisko lēmumu pieņemšanas veids-vienpusīgs
+Attiecības starp varu un sabiedrību-Politiskā represija,sabiedrība pakļaujas vadonim.
+Informācijas pieejamība-Slēpta
+Vadonības kults-Noteikta ideoloģija
+
+
+Totalitārisms
+Varas dalījums-Izpildvara
+Politiskā vara-Autoritārais vadonis
+Varas iegūšanas veids-Valsts apvērsums
+Kādas ir vēlēšanas-Nav
+Varas institūciju atbildība-vadonis
+Politisko lēmumu pieņemšanas veids-vienpusīgs
+Attiecības starp varu un sabiedrību-Politiskā represija,sabiedrība pakļaujas vadonim.
+Informācijas pieejamība-Slēpta
+Vadonības kults-Noteikta ideoloģija
